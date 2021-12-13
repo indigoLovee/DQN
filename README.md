@@ -1,9 +1,9 @@
 # DQN_Pytorch
 1 依赖库：
-Python -> 3.6
-Pytorch -> 1.6
-numpy
-matplotlib
+Python -> 3.6、
+Pytorch -> 1.6、
+numpy、
+matplotlib、
 gym
 
 2 训练：
